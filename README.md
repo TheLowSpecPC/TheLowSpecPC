@@ -8,3 +8,17 @@ Welcome! I am LowSpec, a junior programmer. I primarily use Python, with additio
 ![](https://img.shields.io/badge/Technology-Git-7393B3?logo=git&style=flat-square)
 ![](https://img.shields.io/badge/OS-Windows-7393B3?logo=windows&style=flat-square)
 ![](https://img.shields.io/badge/OS-Ubuntu-7393B3?logo=ubuntu&style=flat-square)
+
+# ✅ Notable Repositories and Projects
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=sectordb&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=prestige&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=caches&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=dirgen-csharp&theme=tokyonight" />
+</a>
