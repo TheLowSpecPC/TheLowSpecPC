@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://ibb.co/0nNtk3W" width="100"/>
+</div>
+
 # 👋 About Me
 Welcome! I am LowSpec, a junior programmer. I primarily use Python, with additional experience in Java, and C++.
 
