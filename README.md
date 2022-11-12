@@ -11,7 +11,7 @@ Welcome! I am LowSpec, a junior programmer. I primarily use Python, with additio
 
 # ✅ Notable Repositories and Projects
 <a href="https://github.com/TheLowSpecPC/YoutubeRedditBot-GUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=sectordb&theme=tokyonight" />
+  <img align="center" src="https://github.com/TheLowSpecPC/YoutubeRedditBot-GUI.app/api/pin/?username=akabinds&repo=sectordb&theme=tokyonight" />
 </a>
 <a href="https://github.com/TheLowSpecPC/YoutubeRedditBot-Shorts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akabinds&repo=prestige&theme=tokyonight" />
