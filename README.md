@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="![Screenshot_20220205-164117](https://user-images.githubusercontent.com/80385481/201491812-bd8f1a08-ab91-4b10-8fd0-668b31c9904e.jpg)
-" width="100"/>
+  <img src="https://user-images.githubusercontent.com/80385481/201491812-bd8f1a08-ab91-4b10-8fd0-668b31c9904e.jpg" width="100"/>
 
 </div>
 
