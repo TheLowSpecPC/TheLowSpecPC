@@ -4,7 +4,7 @@
 </div>
 
 # 👋 About Me
-Welcome! I am LowSpec, a junior programmer. I primarily use Python, with additional experience in Java, and C++.
+Welcome! I am LowSpec, a Junior Developer. I primarily use Python, with additional experience in JavaScript, HTML, CSS, BootStrap, Rust, Java, and C++.
 
 # 🖥️ Technologies & Languages
 ![](https://img.shields.io/badge/Language-Python-7393B3?logo=python&style=flat-square)
